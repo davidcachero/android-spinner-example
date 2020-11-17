@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name" translatable="false">SpinnerInKotlin</string>
+<string name="selected_item" translatable="false"> Color:</string>
+<string-array name="Colores">
+    <item>Rojo</item>
+    <item>Azul</item>
+    <item>Verde</item>
+    <item>Amarillo</item>
+    <item>Naranja</item>
+    <item>Blanco</item>
+</string-array>
+</resources>
